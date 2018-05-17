@@ -1,10 +1,10 @@
 # Tipos y actuación
 
 
-![](img/M1_8.jpg) 
+![Fig.1.8. Quemadura. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_8.jpg) 
 
 
- Fig.1.8. Quemadura. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ 
 
 **Quemaduras eléctricas:**
 
@@ -14,11 +14,13 @@
     1.  Inconsciente con funciones vitales preservadas: posición lateral de seguridad.
     2.  Funciones vitales alteradas: maniobras de Reanimación 
 
-## Importante
-
-*   Si el niño no se puede desconectar de la corriente eléctrica no lo toques directamente, porque la descarga eléctrica te afectaría a ti también
-*   Puedes intentar separarlo con algún material de madera o goma.
-*   Tú puedes aislarte si tus zapatos son de goma, o te puedes subir en una superficie de madera
+>**danger**
+>
+>## Importante
+>
+>*   Si el niño no se puede desconectar de la corriente eléctrica no lo toques directamente, porque la descarga eléctrica te afectaría a ti también
+>*   Puedes intentar separarlo con algún material de madera o goma.
+>*   Tú puedes aislarte si tus zapatos son de goma, o te puedes subir en una superficie de madera
 
 **Quemaduras inhalatorias:**
 
@@ -51,6 +53,6 @@ Son quemaduras muy similares en cuanto a gravedad y actuación que las eléctric
 
 Es importante que sepas actuar para prevenir esta situación, porque l**as lesiones por rayos son evitables** tomando las precauciones debidas: meteorológicas, de resguardo y de cómo actuar en zonas abiertas.
 
-  
+{% youtube %}https://youtu.be/FZOWFi9N3DI{% endyoutube %}
   
 

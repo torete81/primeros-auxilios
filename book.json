@@ -1,9 +1,12 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz", "scripts", "injection"],
     "language": "es",
+    "styles": {
+        "website": "styles/website.css"
+    },
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Primeros Auxilios",
+        "author": "Felipe Estaban Juanas Fernández",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
@@ -31,6 +34,16 @@
                 "showCorrect": true,
                 "showExplanation": true
             }
+        },
+        "scripts": {
+            "files": [
+                "./myscript.js"
+            ]
+        },
+        "injection": {
+            "js": [
+                "./myscript.js"
+            ]
         }
     }
 }

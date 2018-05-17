@@ -4,7 +4,7 @@
 ![](img/M3_20.png)
 
 
- Fig.3.20. Niños. Sergio Palao. ARASAAC. Licencia CC. (BY-NC-SA)
+ Fig.3.20. Niños. Sergio Palao. ARASAAC. Licencia CC. BY-NC-SA
 
 **Has de tranquilizarte,** porque la vida en el centro escolar transcurre con total normalidad cuando en la clase hay un niño con cardiopatía, ya que él debe ser tratado como el resto de sus compañeros y no sufrirá situaciones de desmayo por fatiga o desfallecimiento, más que de forma muy excepcional.
 

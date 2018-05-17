@@ -1,14 +1,9 @@
 # Caídas, golpes, fracturas
 
 
- ![](img/luxacion_codo_cerrada.jpg)
+![Fig.1.13. Luxación de codo tras caída.](img/luxacion_codo_cerrada.jpg)
 
-
- Fig.1.13. Luxación de codo tras caída.
-
-Fíjate que es cerrada,
-
-sin salida al exterior
+Fíjate que es cerrada, sin salida al exterior.
 
 Una **contusión** es una lesión en el cuerpo debida a un impacto sobre él. Aunque no produce lesión de continuidad, sí pueden verse comprometidas estructuras internas.
 
@@ -28,17 +23,19 @@ La **fractura** significa una rotura ósea, pudiendo existir varios tipos.
     
 
 
- ![](img/fractura_metacarpiano.jpg)
+ ![Fig.1.14. Fractura en metacarpo tras caída](img/fractura_metacarpiano.jpg)
 
 
- Fig.1.14. Fractura en metacarpo tras caída
+ 
 
 **Siempre notifícalo a sus padres**
 
-## Importante
-
-*   La mayor parte de los traumatismos en la cabeza sonde carácter leve, y no produce daños cerebrales, ni lesiones
-*   Tras las primeras horas del golpe, es normal que el niño: se mantenga asustado y no recuerde cómo ocurrió el golpe y le duela la cabeza esté asustado, no recuerde el momento del traumatismo, tenga dolor de cabeza o presente algún vomito.
+>**danger**
+>
+>## Importante
+>
+>*   La mayor parte de los traumatismos en la cabeza sonde carácter leve, y no produce daños cerebrales, ni lesiones
+>*   Tras las primeras horas del golpe, es normal que el niño: se mantenga asustado y no recuerde cómo ocurrió el golpe y le duela la cabeza esté asustado, no recuerde el momento del traumatismo, tenga dolor de cabeza o presente algún vomito.
 
 **Golpe en la zona del abdomen**
 
@@ -47,10 +44,10 @@ Depende de la intensidad, pero si estás preocupado, lo mejor es tranquilizar al
  **Fractura**
 
 
- ![](img/M1_15.png)
+![Fig.1.15. Fractura. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_15.png)
 
 
- Fig.1.15. Fractura. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ 
 
 **Una fractura precisa de actuación rápida, por el riesgo de complicaciones**
 
@@ -60,15 +57,19 @@ Depende de la intensidad, pero si estás preocupado, lo mejor es tranquilizar al
 *   Aplica frío local
 *   Si es una fractura abierta, no la movilices, ni intentes reducirla
 
-## Importante
+{% youtube %}https://youtu.be/kam07Ubnfu0{% endyoutube %}
 
-**Si la caída o golpe no produce herida:**
-
-*   No levantes muy deprisa del suelo al niño, si se ha caído
-*   Si la contusión afecta a una extremidad, elévala, retirando los objetos que haya en ella y puedan comprimir
-*   Aplica frío local
-
-Si hay algún **hematoma, no lo pinches**
-
-**No apliques pomadas ni** le administres **fármacos** para que no le duela, ya que pueden desorientar al médico cuano le explore
+>**danger**
+>
+>## Importante
+>
+>**Si la caída o golpe no produce herida:**
+>
+>*   No levantes muy deprisa del suelo al niño, si se ha caído
+>*   Si la contusión afecta a una extremidad, elévala, retirando los objetos que haya en ella y puedan comprimir
+>*   Aplica frío local
+>
+>Si hay algún **hematoma, no lo pinches**
+>
+>**No apliques pomadas ni** le administres **fármacos** para que no le duela, ya que pueden desorientar al médico cuano le explore
 

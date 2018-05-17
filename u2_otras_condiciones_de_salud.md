@@ -4,7 +4,7 @@
 ![](img/M4_4.png)
 
 
-Fig.4.4. Engordar. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.4. Engordar. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 **ANOREXIA Y BULIMIA NERVIOSA**
 
@@ -35,7 +35,7 @@ La causa de los TCA es biopsicosocial, porque intervienen factores biológicos, 
 ![](img/M4_5.1.jpg)
 
 
-Fig.4.5. Manifestaciones orales de la Bulimia. DentalSchoolProf. Wikimedia Commons. CC (BY-NC-SA)
+Fig.4.5. Manifestaciones orales de la Bulimia. DentalSchoolProf. Wikimedia Commons. CC BY-NC-SA
 
 **Si tienes intuición de que alguna per****sona de tu centro puede tener un TCA, puedes...**
 

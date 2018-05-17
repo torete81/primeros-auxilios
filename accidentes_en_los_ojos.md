@@ -3,9 +3,6 @@
 
  ![](img/M1_3.png)
 
-
- Fig.1.3. Llorando. Sergio Palao. ARASAAC. CC (BY-NC-SA)
-
 **Se producen por varias** causas, siendo las más frecuentes:
 
 *   Contusiones

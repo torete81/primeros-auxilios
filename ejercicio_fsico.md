@@ -4,7 +4,7 @@
 ![](img/M3_26.png)
 
 
- Fig.3.26. Jugar al waterpolo. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.26. Jugar al waterpolo. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 Probablemente te preguntes si tu alumno con diabetes puede hacer participar en una competición deportiva o practicar el mismo ejercicio que el resto de sus compañeros. Tienes que saber que **la diabetes no supone impedimento para realizar ejercicio físico o deporte.**
 

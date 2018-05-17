@@ -3,9 +3,6 @@
 
  ![](img/M1_1.png)
 
-
- Fig.1.1. Tropezar. Sergio Palao. ARASAAC. CC (BY-NC-SA)
-
 ### Introducción
 
 Del total de **accidentes** que ocurren en la **edad infantil,** aproximadamente el **15% ocurren en el centro educativo**, lugar donde el niño pasa mucho tiempo durante el día, y además haciendo numerosas actividades.

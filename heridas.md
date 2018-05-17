@@ -1,10 +1,10 @@
 # Heridas
 
 
- ![](img/M1_4.png)
+![Fig.1.4. Sangre. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_4.png)
 
 
- Fig.1.4. Sangre. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ 
 
 La **herida** es una pérdida de continuidad en la piel, "solución de continuidad", que posibilita la entrada de microorganismos en el cuerpo, con el consiguiente riesgo de infección. Esta infección puede ser superficial, o extendese a zonas más profundas, lo que supone una complicación que debemos prevenir.
 

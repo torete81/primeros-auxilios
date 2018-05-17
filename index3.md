@@ -4,7 +4,7 @@
  ![](img/M4_1.png)
 
 
-Fig.4.1 Curas. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.1 Curas. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 ### INTRODUCCIÓN
 

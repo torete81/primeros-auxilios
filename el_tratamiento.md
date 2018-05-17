@@ -4,7 +4,7 @@
 ![](img/marcapasos.png)
 
 
- Fig.3.20. Marcapasos. Sergio Palao. ARASAAC. Licencia CC. (BY-NC-SA)
+ Fig.3.20. Marcapasos. Sergio Palao. ARASAAC. Licencia CC. BY-NC-SA
 
 **1\. Medicinas**
 

@@ -4,7 +4,7 @@
 ![](img/M3_34.png)
 
 
- Fig.3.34. Despistada. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.34. Despistada. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 En el año 2013 se ha evidenciado, a través de los resultados preliminares del estudio Epiberia, que en España existen 12 casos de epilepsia por cada 1.000 personas, es decir, **unas 705.000 personas tendrían esta enfermedad en nuestro país,** lo que hace de la epilepsia una enfermedad muy prevalente. El día nacional de la epilepsia en España es el 24 de mayo.
 

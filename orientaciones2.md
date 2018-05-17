@@ -4,7 +4,7 @@
  ![](img/M3_2.JPG)
 
 
- Fig.3.2. Colegio "La Milagrosa". RAEPS. Licencia CC (BY-NC-SA)
+ Fig.3.2. Colegio "La Milagrosa". RAEPS. Licencia CC BY-NC-SA
 
 Para que puedas realizar este módulo con un estudio eficaz lo hemos dividido en **5 unidades**, cada una de las cuales hace referencia a una enfermedad crónica. 
 

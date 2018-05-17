@@ -4,7 +4,7 @@
  ![](img/M3_6.png)
 
 
- Fig.3.6. Eccema. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ Fig.3.6. Eccema. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 **Es una alteración crónica inflamatori****a de la piel, **frecuente en los niños escolares.
 

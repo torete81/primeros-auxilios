@@ -4,7 +4,7 @@
 ![](img/M3_8.png)
 
 
- Fig.3.8. Comer. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.8. Comer. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 **La alergia a los alimentos es** una reacción adversa a un alimento que es bien tolerado por la mayoría de las personas, y se reproduce si vuelve a haber un contacto con ese alimento.
 

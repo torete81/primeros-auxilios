@@ -4,7 +4,7 @@
 ![](img/M2_u2_Renimacion_esquema.jpg)
 
 
- Fig.2.2. Esquema RCP. SEMICYUC, FEEC. Licencia CC (BY-NC-SA)
+ Fig.2.2. Esquema RCP. SEMICYUC, FEEC. Licencia CC BY-NC-SA
 
 Te presentamos algo de debes aprender, como profesor, y ante todo, como ciudadano, ya que sabiendo hacer correctamente una RCP, realizada siguiendo unos pasos encadenados correctamente, puedes salvar una vida que, en algunos casos, dependa de tu conocimiento y buena voluntad.
 
@@ -67,5 +67,5 @@ De hecho, es vital iniciar la RCP en los tres primeros minutos después de la pa
 ![](img/reanimar.png)
 
 
- Fig.2.3. Reanimar. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.2.3. Reanimar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 

@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 
 ____
-### Módulo 1. Accidentes y Primeros Auxilios | Módulo 1. Accidentes y Primeros Auxilios. 
+### 1. Accidentes y Primeros Auxilios. 
 * [Módulo 1. Accidentes y Primeros Auxilios](index0.md)
 * [Orientaciones](orientaciones.md)
 * [Contenidos](contenidos.md)
@@ -24,8 +24,9 @@ ____
 		* [Pasos secuenciales](pasos_secuenciales.md)
 		* [Asfixia. Atragantamiento](asfixia_atragantamiento.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
-### Módulo 2. Posición Lateral de Seguridad y Reanimación Cardiopulmonar | Módulo 2: Posición lateral de seguridad y Reanimación cardiopulmonar 
+
+<!--
+### 2. Posición lateral de seguridad y Reanimación cardiopulmonar 
 * [Módulo 2. Posición Lateral de Seguridad y Reanimación Cardiopulmonar](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Posición Lateral de Seguridad (PLS)](u1_posicin_lateral_de_seguridad_pls.md)
@@ -34,8 +35,9 @@ ____
 		* [Desfibrilador](desfibrilador.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
 * [Autoevaluación](autoevaluacin.md)
-* [Créditos](crditos1.md)
-### Módulo 3. Atención al alumnado con enfermedades crónicas 
+
+
+### 3. Atención al alumnado con enfermedades crónicas 
 * [Módulo 3. Atención al alumnado con enfermedades crónicas](index2.md)
 * [Orientaciones](orientaciones2.md)
 * [Contenidos](contenidos2.md)
@@ -102,8 +104,9 @@ ____
 		* [Autoevaluación](autoevaluacin17.md)
 		* [Recursos](recursos.md)
 		* [Para saber más](para_saber_ms9.md)
-* [Créditos](crditos2.md)
-### Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones 
+
+
+### 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones 
 * [Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1. Botiquín escolar](u1_botiqun_escolar.md)
@@ -113,4 +116,6 @@ ____
 	* [U3. Instrucciones, procedimientos, etc](u3_instrucciones_procedimientos_etc.md)
 	* [Para saber más](para_saber_ms3.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
+-->
+___
+* [Créditos](crditos.md)

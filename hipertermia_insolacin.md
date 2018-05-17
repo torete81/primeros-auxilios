@@ -1,10 +1,10 @@
 # Hipertermia, insolación
 
 
-![](img/M1_9.png) 
+![Fig.1.9. Sofocos. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_9.png) 
 
 
- Fig.1.9. Sofocos. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+
 
 Se deben a la alteración de la temperatura corporal
 
@@ -61,11 +61,13 @@ GOLPE DE CALOR:
 
 *   Valoración médica urgente.
 
-## Importante
-
-No le administres ácido acetil salicílico (aspirina) de forma general al niño, ya que hay muchos casos en los que está contraindicada
-
-**Lo que no tienes que hacer es:**
-
-*   Dar friegas de colonia o alcohol, (aunque en muchos sitios es una costumbre arraigada)
+>**danger**
+>
+>## Importante
+>
+>No le administres ácido acetil salicílico (aspirina) de forma general al niño, ya que hay muchos casos en los que está contraindicada
+>
+>**Lo que no tienes que hacer es:**
+>
+>*   Dar friegas de colonia o alcohol, (aunque en muchos sitios es una costumbre arraigada)
 

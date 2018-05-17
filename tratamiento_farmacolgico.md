@@ -4,7 +4,7 @@
 ![](img/M3_37.png)
 
 
- Fig.3.37. Hablar por teléfono. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)  
+ Fig.3.37. Hablar por teléfono. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA  
 
 ### Respecto al tratamiento farmacológico durante la crisis
 

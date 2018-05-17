@@ -4,7 +4,7 @@
 ![](img/M3_18.png)
 
 
- Fig.3.18. Corazón. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.18. Corazón. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 Seguramente sientas inseguridad y miedo si te dicen que vas a tener un niño con una cardiopatía congénita en tu clase, ¿verdad?... y es lo más normal.
 

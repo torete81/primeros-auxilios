@@ -4,7 +4,7 @@
 ![](img/picar.png)![](img/vomitar.png)![](img/diarrea.png)![](img/toser.png)
 
 
- Fig.3.4. Picor, vomitar, diarrea y toser. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ Fig.3.4. Picor, vomitar, diarrea y toser. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 ### **Qué es la alergia**
 

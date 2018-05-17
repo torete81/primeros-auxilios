@@ -6,6 +6,6 @@ El equipo de elaboración del presente curso quiere quedar a tu disposición par
  ![](img/M4_10.png)
 
 
-Fig.4.10. **GRACIAS.** Sergio Palao. ARASAAC. CC (BY-NC-SA)  
+Fig.4.10. **GRACIAS.** Sergio Palao. ARASAAC. CC BY-NC-SA  
   
 

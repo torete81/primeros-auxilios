@@ -4,7 +4,7 @@
 ![](img/M4_6.png)
 
 
-Fig.4.6. Gimnasia. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.6. Gimnasia. Sergio Palao. ARASAAC. CC BY-NC-SA
 
  **Trastornos aliment****arios no especificados (“vigorexia”, “ortorexia”, etc.)**
 
@@ -24,7 +24,7 @@ Las **complicaciones** a largo plazo son las enfermedades por daño a músculo
 ![](img/M4_7.png)
 
 
-Fig.4.7. Comida. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.7. Comida. Sergio Palao. ARASAAC. CC BY-NC-SA
 
  **¿Qué es la Ortorexia?**
 

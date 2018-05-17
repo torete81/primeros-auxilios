@@ -4,7 +4,7 @@
 ![](img/M3_22.png)
 
 
- Fig.3.22. Profesor. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.22. Profesor. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 Tal y como estás comprobando, una cardiopatía congénita puede hacer que los períodos que pasa el niño en el hospital pueden ser frecuentes para realizar sus revisiones, y prolongados si se ha realizado una operación en su corazón.
 

@@ -1,10 +1,7 @@
 # Quemaduras
 
 
- ![](img/M1_7.png)
-
-
- Fig.1.7. Quemadura química. Blazius. Wikimedia Commons. CC (BY-CN-SA)
+![Fig.1.7. Quemadura química. Blazius. Wikimedia Commons. CC BY-CN-SA](img/M1_7.png)
 
 **La quemadura es** la lesión producida en el organismo por la acción del calor
 
@@ -23,9 +20,11 @@
 *   **2º grado**: se caracteriza por la aparición de una ampolla o flictena. Es dolorosa.
 *   **3º grado:** se caracteriza por la aparición de una escara de necrosis. No es dolorosa.
 
-## Importante
-
-Una quemadura de tercer grado ( profunda e indolora), es extensa o afecta a orificios naturales, manos, cara, cuello, pliegues del codo o de la rodilla, genitales o planta del pie necesitan  siempre de valoración y atención médica
+>**danger**
+>
+>## Importante
+>
+>Una quemadura de tercer grado ( profunda e indolora), es extensa o afecta a orificios naturales, manos, cara, cuello, pliegues del codo o de la rodilla, genitales o planta del pie necesitan  siempre de valoración y atención médica
 
 **Qué debes hacer inicialmente:**
 

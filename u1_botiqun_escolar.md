@@ -4,7 +4,7 @@
  ![](img/M4_2.png)
 
 
-Fig.4.2. Botiquín. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.2. Botiquín. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 El centro docente ha de tener un **botiquín de contenidos básicos****,** para **poder atender** a las necesidades de sus alumnos en temas relacionados con la salud (**primeros auxilios**).
 

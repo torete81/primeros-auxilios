@@ -6,7 +6,7 @@
  ![](img/M4_9.png)
 
 
-Fig.4.9. Lectura. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+Fig.4.9. Lectura. Sergio Palao. ARASAAC. CC BY-NC-SA
 
 Siempre ha sido voluntad del colectivo docente que el derecho a la asistencia no se vea dificultado por la necesidad de administración, ordinaria o de emergencia, de algún medicamento en horario escolar.
 

@@ -1,10 +1,10 @@
 # Convulsiones
 
 
- ![](img/M1_5.png)
+![Fig.1.5. Desmayo. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_5.png)
 
 
- Fig.1.5. Desmayo. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ 
 
 Una **crisis convulsiva** es un trastorno de la comunicación eléctrica entre las neuronas.
 

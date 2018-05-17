@@ -4,7 +4,7 @@
 ![Campaña Día Mundial de la diabetes 2007: diabetes en niños y adolescentes. Fuente: federación Internacional de la diabetes](img/Modulo2_U5_2_diabetes.jpg)
 
 
- Fig.3.25. Cartel día mundial diabetes. IDF. Licencia CC (BY-NC-SA)
+ Fig.3.25. Cartel día mundial diabetes. IDF. Licencia CC BY-NC-SA
 
  La diabetes es una **enfermedad crónica** que en la actualidad no tiene curación, y se caracteriza por un **aumento de las cifras de glucosa en sangre. **Es una de las enfermedades más frecuentes en la edad escolar.
 

@@ -3,9 +3,6 @@
 
 ![](img/DSCF0014.JPG)
 
-
- Fig.1.2. Accidente de tráfico.
-
 Tal y como te hemos dicho, actualmente **los accidentes en la infancia** son muy frecuentes, y en muchas ocasiones **pueden tener graves consecuencias** en la salud y bienestar emocional del niño.
 
 **Como profesor** tienes que contribuir en tu centro escolar a **favorecer un ambiente seguro** a los alumnos, eliminando peligros, educando en el desrrollo de habilidades y formándote como lo estás haciendo ahora para desarrollar capacidades en la actuación rápida dentro de este contexto.

@@ -4,7 +4,7 @@
 ![](img/M3_35.png)
 
 
- Fig.3.35. Tumbarse boca arriba. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.35. Tumbarse boca arriba. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 Una vez que conoces qué son, queremos que comprendas los siguientes detalles importantes.
 

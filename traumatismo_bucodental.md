@@ -24,10 +24,10 @@ Caídas al suelo, por las escaleras, al jugar en el patio, chocar contra otros c
     *   Tócalo sólo por la zona de la corona
 
 
- ![](img/M1_12.png)
+![Fig.1.12. Diente. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_12.png)
 
 
- Fig.1.12. Diente. Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ 
 
 **Conserva la pieza dentaria en:**
 
@@ -38,10 +38,12 @@ Caídas al suelo, por las escaleras, al jugar en el patio, chocar contra otros c
 
 **Informa rápidamente** a los padres, y solicitar ayuda porque es fundamental la derivación al dentista, ya que el diente **podría implantarse** en un plazo recomendado **no superior a las 2 horas**, y cuando antes mejor
 
-## Importante
-
-*   No manipular el diente: no tocar la raíz, no lavarlo con agua o solución antiséptica y no secarlo con gasas, no frotarlo...
-*   No transportar el diente en seco o en agua sin más.
-*   No demorar la derivación del niño o niña al dentista
-*   Localiza urgentemente la pieza dentaria y traspórtala adecuadamente y a ser posible en menos de media hora al odontólogo o dentista
+>**danger**
+>
+>## Importante
+>
+>*   No manipular el diente: no tocar la raíz, no lavarlo con agua o solución antiséptica y no secarlo con gasas, no frotarlo...
+>*   No transportar el diente en seco o en agua sin más.
+>*   No demorar la derivación del niño o niña al dentista
+>*   Localiza urgentemente la pieza dentaria y traspórtala adecuadamente y a ser posible en menos de media hora al odontólogo o dentista
 

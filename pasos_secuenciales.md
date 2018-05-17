@@ -77,7 +77,7 @@ Después de las 5 primeras insuflaciones, se comprueba la existencia de pulso ar
  ![](img/M1_21.png)
 
 
- Fig.1.21. Toma de pulso en carótida (cuello). Sergio Palao. ARASAAC. CC (BY-NC-SA)
+ Fig.1.21. Toma de pulso en carótida (cuello). Sergio Palao. ARASAAC. CC BY-NC-SA
 
 La técnica es igual a la realizada en el adulto.
 

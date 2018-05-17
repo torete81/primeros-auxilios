@@ -57,7 +57,7 @@ Aplica inmediatamente las **compresiones abdominales** (también conocidas como 
 ![](img/M1_23.jpg)
 
 
- Fig.1.23. Maniobra de Heimlich. Rama. Wikimedia Commons. CC (BY-NC-SA)
+ Fig.1.23. Maniobra de Heimlich. Rama. Wikimedia Commons. CC BY-NC-SA
 
 **¿Cómo se hace esta maniobra?**
 

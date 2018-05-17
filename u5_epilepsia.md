@@ -4,7 +4,7 @@
 ![](img/M3_33.png)
 
 
- Fig.3.33. Cerebro. Sergio Palao. ARASAAC. Licencia CC (BY-NC-SA)
+ Fig.3.33. Cerebro. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
 Epilepsia significa "sorpresa, sorpender". Pero queremos que en realidad tú seas la persona sorprendida al comprobar, cuando finalices esta unidad, **lo fácil que resulta entender esta condición de salud** que tantos miedos genera, no sólo a los docentes, sino a un grupo extenso de la población.
 
