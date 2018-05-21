@@ -1,10 +1,8 @@
 # En la escuela
 
 
-![M3_U2_asma_documento de salud del asma. Edita: dirección general de salud pública. Dibujo: rafa marrón](img/M3_U2_asma_escuela.jpg)
+![Fig.3.17. Niño con asma. Documento de salud del asma en pediatría. DG Salud Pública](img/M3_U2_asma_escuela.jpg)
 
-
- Fig.3.17. Niño con asma. Documento de salud del asma en pediatría. DG Salud Pública
 
 Como bien sabes por tu experiencia como profesor, vas a tener un papel fundamental en la atención al alumnado con una enfermedad crónica como es el asma, para que pueda llevar una vida lo más normal posible en el centro, cumpla con sus objetivos académicos y tenga bajo control el asma.
 

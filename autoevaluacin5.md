@@ -2,13 +2,4 @@
 
 ## Pregunta Verdadero-Falso
 
-### Pregunta 1
-
-No todos los niños con cardiopatía congénita tienen el mismo tratamiento; por eso, es bueno que realicen ejercicio cardiosaludable, y yo desde el aula fomentaré su ejercicio, con las limitaciones oportunas y sabiendo que puedo favorecer su integración con los descansos cuando me los pida
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Verdadero**
-
+<quiz name=""><question><p>Estamos preparando una excursión al Pirineo, y vamos a practicar esquí en la nieve. Como Alba es una chica que tiene asma, la mejor opción sería hablar con ella, contarle el peligro que supone para ella ir por si aparece una crisis de asma, y con buenas y entrañables palabras, convencerla para que no venga. Es su mejor opción de salud</p><answer correct>Verdadero</answer><answer>Falso</answer></question></quiz>

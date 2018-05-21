@@ -1,10 +1,7 @@
 # Asma inducida por ejercicio
 
 
-![Niños jugando con asma](img/M3_U2_asma_deporte.jpg)
-
-
- Fig.3.16. Niño con asma jugando. Documento de salud del asma en pediatría. DG salud Pública
+![Fig.3.16. Niño con asma jugando. Documento de salud del asma en pediatría. DG salud Pública](img/M3_U2_asma_deporte.jpg)
 
 **El asma inducido por el ejercicio** se produce en los minutos que siguen al esfuerzo del ejercicio físico, y es transitorio. Es uno de los muchos tipos de asma que existen.
 

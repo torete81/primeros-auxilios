@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 **Hojas informativas para padres de la Sociedad Española de Urgencias en Pediatría**
 
@@ -69,6 +69,3 @@ Disponible en: [https://youtu.be/YKwmuUAl8JI](https://youtu.be/YKwmuUAl8JI)
 Duración: 5'
 
 Producido dentro del proyecto Urgencias Sanitarias en la escuela. La obstrucción puede ser leve o grave. En el caso de las leves el cuerpo extraño no obstruye por completo el paso del aire. La víctima está nerviosa y tosiendo; en los graves, el cuerpo extraño impide por completo el paso del aire. En este sentido también se especifica como hacer la maniobra de Heimlich o las compresiones abdominales.
-
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
-

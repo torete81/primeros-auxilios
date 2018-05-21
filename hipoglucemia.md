@@ -1,10 +1,10 @@
 # Hipoglucemia
 
 
-![](img/M3_31.png)
+![Fig.3.31. Azúcar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_31.png)
 
 
- Fig.3.31. Azúcar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA 
+  
 
 **Es la disminución del nivel normal de glucemia,** es decir, **una bajada brusca** del azúcar de la sangre. Las **causas más frecuentes** son:
 
@@ -22,10 +22,10 @@ Si aparecen **síntomas de hipoglucemia o glucosa inferior a 60 mg/dL** al hacer
 Cuando veas que el escolar esté recuperado se deben dar alimentos que contengan hidratos de carbono de absorción lenta (pan, galletas, fruta…).
 
 
-![](img/M3_32.png)
+![Fig.3.32. Urgencias. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_32.png)
 
 
- Fig.3.32. Urgencias. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
+ 
 
 En los **casos más graves en los que exista pérdida de conciencia,** no se debe dar nada al escolar por boca, colocar al niño en la posición lateral de seguridad (que ya conoces del módulo 1) y es necesario **administrar Glucagón (inyectable).**
 

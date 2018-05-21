@@ -1,10 +1,10 @@
 # Pasos secuenciales
 
 
- ![](img/Ver_oir_y_sentir.jpg)
+![Fig.1.18. Ver, oír, sentir.](img/Ver_oir_y_sentir.jpg)
 
 
- Fig.1.18. Ver, oír, sentir.
+ 
 
 **1º Conseguir la seguridad de ti como reanimador y del niño.**
 
@@ -25,10 +25,10 @@ Sólo se solicita ayuda si es posible sin abandonar la asistencia del pequeño. 
 Un niño inconsciente suele ser incapaz de mantener abierta y permeable la vía aérea por lo que la primera medida a tomar es la apertura de la vía aérea con las siguientes maniobras:
 
 
- ![](img/M1_18.jpg)
+![Fig.1.19. Apertura vía aérea.](img/M1_18.jpg)
 
 
- Fig.1.19. Apertura vía aérea.
+ 
 
 *   **Maniobra frente-mentón:**
     *   Se coloca una mano sobre la frente, realizando una extensión moderada del cuello en niños y neutra en lactantes, y con la punta de los dedos de la otra mano se levanta el mentón. Se debe evitar cerrar la boca o empujar los tejidos blandos debajo del mentón.
@@ -47,10 +47,10 @@ Mientras mantienes la postura de apertura de vía aérea con ambas manos, acerca
 *   Si no respira, se procede a ventilar.
 
 
- ![](img/M1_19.jpg)
+![Fig.1.20. Ventilando.](img/M1_19.jpg)
 
 
- Fig.1.20. Ventilando.
+ 
 
 **6º Ventilación.**
 
@@ -74,10 +74,10 @@ Después de las 5 primeras insuflaciones, se comprueba la existencia de pulso ar
 **-Pulso carotídeo en niños.**
 
 
- ![](img/M1_21.png)
+![Fig.1.21. Toma de pulso en carótida (cuello). Sergio Palao. ARASAAC. CC BY-NC-SA](img/M1_21.png)
 
 
- Fig.1.21. Toma de pulso en carótida (cuello). Sergio Palao. ARASAAC. CC BY-NC-SA
+
 
 La técnica es igual a la realizada en el adulto.
 

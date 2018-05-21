@@ -1,10 +1,7 @@
 # Deporte
 
 
-![](img/M3_15.JPG)
-
-
- Fig.3.15. CRA "Tastavins". Deporte y salud. RAEPS. 
+![Fig.3.15. CRA "Tastavins". Deporte y salud. RAEPS.](img/M3_15.JPG)
 
 El niño que tiene asma **puede hacer deporte** de forma habitual y no debe ser motivo para no practicarlo, incluso deporte de competición.
 
@@ -12,7 +9,7 @@ El mejor deporte es el que más le guste al niño asmático,con algunas precauci
 
 El alumno con asma tiene que aprender a respirar, saber qué tipos de ejercicio le son más beneficiosos, cómo y cuándo realizarlos
 
-### ** Lee detenidamente estos consejos:**
+### **Lee detenidamente estos consejos:**
 
 1.  Realizar un **calentamiento adecuado** previo al ejercicio, empezando suave, de forma progresiva y aeróbica, hasta alcanzar una actividad de intensidad baja o media en 10-15 minutos.
 2.  No se recomiendan los ejercicios anaerobios de alta intensidad

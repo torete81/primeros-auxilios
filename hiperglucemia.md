@@ -1,10 +1,10 @@
 # Hiperglucemia
 
 
-![](img/M3_30.jpg)
+![Fig.3.30. Niño autoinyectándose insulina. Campamento educativo](img/M3_30.jpg)
 
 
- Fig.3.30. Niño autoinyectándose insulina. Campamento educativo
+ 
 
 Como sabes, la glucemia es la glucosa de la sangre, por eso la hiperglucemia es el **aumento de la glucosa en la sangre**.
 

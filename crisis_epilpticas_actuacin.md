@@ -1,10 +1,10 @@
 # Crisis epilépticas: actuación
 
 
-![Curso Soporte Vital. Dr. Aguaviva](img/M3_U6_epilpesia_PLS.jpg)
+![Fig.3.36. Exploración paciente inconsciente.](img/M3_U6_epilpesia_PLS.jpg)
 
 
- Fig.3.36. Exploración paciente inconsciente.
+ 
 
 ### **Qué hay que hacer**
 

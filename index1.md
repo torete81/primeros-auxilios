@@ -1,10 +1,10 @@
 # Módulo 2. Posición Lateral de Seguridad y Reanimación Cardiopulmonar
 
 
-![](img/M2_1.jpg)
+![Fig.2.1. Forma de poner las manos en RCP](img/M2_1.jpg)
 
 
- Fig.2.1. Forma de poner las manos en RCP
+ 
 
 ### **Introdución**
 

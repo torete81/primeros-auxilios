@@ -1,10 +1,8 @@
 # La actividad física
 
 
-![](img/M3_21.png)
+![Fig.3.21. Correr- Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_21.png)
 
-
- Fig.3.21. Correr- Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
 
  El joven con cardiopatía **debe realizar ejercicio físico**, ya que mediante el juego y el deporte, como bien sabes, contribuyen a su desarrollo psíquico, físico, motriz, etc.
 

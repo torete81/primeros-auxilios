@@ -1,7 +1,5 @@
 # Para saber más
 
-## ParaSaberMas
-
 **La comida de Emma**
 
 Disponible en:

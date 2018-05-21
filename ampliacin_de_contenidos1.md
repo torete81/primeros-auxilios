@@ -2,9 +2,7 @@
 
 ## Para saber más
 
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
-
-## **Recomendaciones y principales novedades de European resuscitation Council 2015:**
+#### **Recomendaciones y principales novedades de European resuscitation Council 2015:**
 
 _Nuevo algoritmo RCP pediátrico 2015. Póster 1 y 2_
 

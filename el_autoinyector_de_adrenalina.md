@@ -14,3 +14,4 @@ En los **videos** de a continuación puedes comprobar en qué consiste la **téc
 
 **Explicaciones sobre las inyecciones de Adrenalina**
 
+{% youtube %}https://youtu.be/3dm8kleUUXo{% endyoutube %}

@@ -12,8 +12,8 @@ Nosotros vamos a detallarte los **DEA**, ya que analizan la situación, y si con
 de momento, quédate con la secuencia de la imagen:
 
 
-![](img/DEA.png)
+![Fig.2.6. Esquema DEA](img/DEA.png)
 
 
- Fig.2.6. Esquema DEA
+ 
 

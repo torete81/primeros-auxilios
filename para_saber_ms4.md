@@ -50,8 +50,6 @@ Disponible en: [http://bit.ly/2fFlPR7](http://bit.ly/2fFlPR7)
 
 Esta guía de información para el paciente ha sido editada por el Gobierno de Aragón, a través del Departamento de sanidad en el año 2008. Aporta una información muy clara y esquemática referente a la coagulación y los anticoagulantes.
 
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
-
 **Cardiopatias congenitas**
 
 Disponible en: [http://bit.ly/2gEDjPM](http://bit.ly/2gEDjPM)
@@ -60,5 +58,4 @@ Duración: 42'16''
 
 Programa de RTVE, dentro del conjunto de documentales de "Crónicas", titulado: "Crónicas: seguir latiendo", donde se visualiza la realidad de las cardiopatías congénitas en todos los ámbitos (fíjate fundamentalmente en el ámbito escolar).  
 
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
 

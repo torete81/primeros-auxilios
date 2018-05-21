@@ -1,10 +1,10 @@
 # Autocontroles
 
 
-![](img/M3_28.jpg)
+![Fig.3.28. Niña de vacaciones tras hacerse un autoanálisis](img/M3_28.jpg)
 
 
- Fig.3.28. Niña de vacaciones tras hacerse un autoanálisis
+ 
 
 Seguro que tienes curiosidad por conocer en qué consiste y cómo se hace la técnica de determinación de la **glucemia capilar** (autoanálisis).
 
@@ -23,10 +23,10 @@ Conviene facilitar en el centro escolar un **lugar adecuado** (limpio, discreto,
 .
 
 
-![](img/M3_29.jpg)
+![Fig.3.29. Niña haciéndose un autoanálisis en clase](img/M3_29.jpg)
 
 
- Fig.3.29. Niña haciéndose un autoanálisis en clase
+ 
 
 ## Importante
 

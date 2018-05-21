@@ -1,10 +1,10 @@
 # Qué son las cardiopatías congénitas
 
 
- ![](img/M3_19.jpg)
+![Fig.3.19. Colegio "La Alegría". Taller de corazones. RAEPS](img/M3_19.jpg)
 
 
- Fig.3.19. Colegio "La Alegría". Taller de corazones. RAEPS  
+   
 
 Son un grupo de enfermedades que se caracterizan por **malformaciones en la estructura del corazón.**
 

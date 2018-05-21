@@ -1,10 +1,10 @@
 # U2. Reanimación Cardiopulmonar (RCP)
 
 
-![](img/M2_u2_Renimacion_esquema.jpg)
+![Fig.2.2. Esquema RCP. SEMICYUC, FEEC. Licencia CC BY-NC-SA](img/M2_u2_Renimacion_esquema.jpg)
 
 
- Fig.2.2. Esquema RCP. SEMICYUC, FEEC. Licencia CC BY-NC-SA
+ 
 
 Te presentamos algo de debes aprender, como profesor, y ante todo, como ciudadano, ya que sabiendo hacer correctamente una RCP, realizada siguiendo unos pasos encadenados correctamente, puedes salvar una vida que, en algunos casos, dependa de tu conocimiento y buena voluntad.
 
@@ -41,7 +41,7 @@ La parada cardiorrespiratoria se produce por varias causas:
     
 *   Enseñar al niño educación vial y a montar en bicicleta, triciclos, etc. de forma segura.
     
-*   ### Nunca subestimes lo que puede hacer un niño.
+*   **Nunca subestimes lo que puede hacer un niño.**
     
 
 ### **Por qué hay que comenzar precozmente con las maniobras de resucitación:**
@@ -64,8 +64,8 @@ De hecho, es vital iniciar la RCP en los tres primeros minutos después de la pa
     
 
 
-![](img/reanimar.png)
+![Fig.2.3. Reanimar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/reanimar.png)
 
 
- Fig.2.3. Reanimar. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
+ 
 

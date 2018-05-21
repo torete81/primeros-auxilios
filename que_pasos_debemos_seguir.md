@@ -2,11 +2,13 @@
 
 Como vas a comprobar, el inicio es la parte correspondiente a lo que ya has estudiado en Primeros Auxilios y lo debes saber hacer: por lo tanto, te sirve de recordatorio, y te lo recordamos para que comprubes las secuencias encadenadas.
 
-## Importante1
-
-### **PREMISA A RECORDAR SIEMPRE Y EN TODO MOMENTO:**
-
-**Los pasos de la RCP siguen una secuencia lógica para garantizar la efectividad y éxito de la técnica. Por ello no debemos saltarnos ningún paso.**
+>**danger**
+>
+>## Importante
+>
+>### **PREMISA A RECORDAR SIEMPRE Y EN TODO MOMENTO:**
+>
+>**Los pasos de la RCP siguen una secuencia lógica para garantizar la efectividad y éxito de la técnica. Por ello no debemos saltarnos ningún paso.**
 
 ### **Pasos en la RCP:**
 
@@ -37,10 +39,10 @@ Como vas a comprobar, el inicio es la parte correspondiente a lo que ya has estu
 **5\. Si respira, lo colocaremos en posición lateral de seguridad (PLS)** siempre que sea posible y llamaremos a urgencias hasta la llegada de los equipos asistenciales comprobando en todo momento su respiración. ¡Ya sabes hacerlo, recuérdalo!
 
 
-![](img/M2_3.jpg)
+![Fig.2.4. Pasos PLS](img/M2_3.jpg)
 
 
- Fig.2.4. Pasos PLS
+ 
 
 **6\. Si el paciente no respira y estamos acompañados de otra persona, debemos indicarle que avise a emergencias (112)**. Mientras, nosotros no nos separaremos del paciente e iniciaremos la respiración artificial (boca-boca). ¡Ya sabes hacerlo, recuérdalo!
 
@@ -88,10 +90,10 @@ Colocaremos al paciente boca arriba en un plano duro y con las extremidades alin
     
 
 
-![](img/rcp.png)
+![Fig.2.5. Esquema RCP](img/rcp.png)
 
 
- Fig.2.5. Esquema RCP
+ 
 
 **9\. Llamar a urgencias y comprobar signos de vida**. Si al cabo de un minuto de empezar la RCP, seguimos solos y no hemos podido llamar a urgencias (112), deberemos hacerlo en este momento aunque para ello tengamos que abandonar momentáneamente al niño.
 
@@ -108,3 +110,4 @@ A los 2 minutos deberemos comprobar la eficacia de nuestras maniobras: aparició
 
 Es importante recordar que no es recomendable realizar maniobras de reanimación con el lactante en brazos y en movimiento. Sólo de forma excepcional, podemos movilizar al niño en caso de que nos desplacemos para solicitar ayuda y continuar las maniobras en el otro lugar.
 
+{% youtube %}https://youtu.be/XopewSZdwu8{% endyoutube %}

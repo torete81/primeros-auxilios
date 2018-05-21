@@ -1,10 +1,8 @@
 # Factores desencadenantes
 
 
-![M3_U2_asma_desencadenantes_documento de salud del asma. Edita: dirección general de salud pública. Dibujo: Rafa Marrón](img/M3_U2_asma_desencadenantes.jpg)
+![Fig.3.11. Niños jugando. Documento de salud del asma en pediatría. DG Salud Pública](img/M3_U2_asma_desencadenantes.jpg)
 
-
- Fig.3.11. Niños jugando. Documento de salud del asma en pediatría. DG Salud Pública
 
 Los **factores causantes** más frecuentes **de la inflamación crónica **de los bronquios en el asma infantil son la alergia y las infecciones víricas, que muchas veces son también desencadenantes.
 

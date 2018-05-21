@@ -1,10 +1,7 @@
 # Qué es el asma, causas, síntomas
 
 
-![Asma. Imágenes modificadas del Documento de salud del asma en la escuela. Edita Dirección General de salud Pública. Dibujos: Rafa Marrón](img/M3_U2_asma.jpg)
-
-
- Fig.3.10. Comparación bronquio sano y con asma. Documento de salud del asma en pediatría. DG Salud Pública. 
+![Asma. Imágenes modificadas del Documento de salud del asma en la escuela. Edita Dirección General de salud Pública. Dibujos: Rafa Marrón](img/M3_U2_asma.jpg) 
 
 Tienes que saber del asma que es una enfermedad respiratoria crónica, caracterizada por una **inflamación de los bronquios**, lo que provoca que se estrechen con facilidad, y **se dificulte el paso de aire a los pulmones**, con lo que la persona respira peor.
 

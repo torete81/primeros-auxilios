@@ -32,8 +32,6 @@ Se trata de una guía muy práctica editada en la Comunidad autónoma de Aragón
 
 #### **Iniciativa Activilandia**
 
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
-
 Disponible en: [http://bit.ly/2hmqhJb](http://bit.ly/2hmqhJb)
 
 {Consultado: 10/12/2016}

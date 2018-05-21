@@ -1,10 +1,6 @@
 # U2. Asma
 
-
-![Niña con asma en clase. Documento de salud del asma en pediatría. Dirección Greneral de salud pública. Dibujo: Rafa Marrón](img/M3_U2_asma_clase.jpg)
-
-
- Fig.3.9. Alumna con asma en clase. DG Salud Pública
+![Fig.3.9. Niña con asma en clase. Documento de salud del asma en pediatría. Dirección Greneral de salud pública. Dibujo: Rafa Marrón](img/M3_U2_asma_clase.jpg)
 
 Tienes que saber que **el asma es la enfermedad infantil crónica más frecuente** en los países industrializados, y por lo tanto en España, donde entre un 3% y un 7% de la población adulta tiene esta enfermedad, cifra que sube hasta situarse entre un 5% y un 10% en los niños menores de 6 años. En cifras generales, más de 1 millón de menores de 18 años en España tienen asma.
 

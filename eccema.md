@@ -1,12 +1,12 @@
 # Eccema
 
 
- ![](img/M3_6.png)
+![Fig.3.6. Eccema. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M3_6.png)
 
 
- Fig.3.6. Eccema. Sergio Palao. ARASAAC. CC BY-NC-SA
+ 
 
-**Es una alteración crónica inflamatori****a de la piel, **frecuente en los niños escolares.
+**Es una alteración crónica inflamatoria** de la piel, frecuente en los niños escolares.
 
 Los **síntomas** son el picor y la excoriación y se produce generalmente por **alérgenos** de tipo:
 
@@ -29,7 +29,7 @@ No debes asustarte, ya que el **tratamiento** es muy sencillo: 
 
 **Los niños con eccema necesitan** aplicación frecuente de **tratamientos tópicos** durante las jornadas escolares para prevenir la sequedad de piel y el subsiguiente rascado e infección.
 
-## Importante1
+## Importante
 
 ### **¿ Qué puntos de actuación tienes en la escuela ?**
 

@@ -1,10 +1,10 @@
 # Alimentación
 
 
-![Alimentación](img/Modulo2_U5_3_alimentacion.jpg)
+![Fig.3.27. Adolescente tomando fruta tras hipoglucemia en la playa](img/Modulo2_U5_3_alimentacion.jpg)
 
 
- Fig.3.27. Adolescente tomando fruta tras hipoglucemia en la playa
+ 
 
 No te agobies pensando en lo difícil que puede ser aprender las nociones sobre los alimentos que tiene que tomar la persona con diabetes en la edad pediátrica, porque **la alimentación del niño con diabetes debe ser equilibrada y semejante a la de los niños de su misma edad. **
 

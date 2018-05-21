@@ -1,10 +1,8 @@
 # Asfixia. Atragantamiento
 
 
-![](img/M1_21.jpg)
+![Fig.1.22. Moneda en Orofaringe.](img/M1_21.jpg)
 
-
- Fig.1.22. Moneda en Orofaringe.
 
 **La asfixia por un cuerpo extraño puede ser una emergencia que amenace la vida.**
 
@@ -49,15 +47,15 @@
 *   Lleva al niño al médico después de cualquier incidente mayor de ahogo, especialmente si tiene tos persistente. Si el niño tiene dificultad al respirar o al tragar, acudir al servicio de emergencias.
     
 
-**L****lama al teléfono 112 inmediatamente**, o pedir a alguien que lo haga.
+**Llama al teléfono 112 inmediatamente**, o pedir a alguien que lo haga.
 
 Aplica inmediatamente las **compresiones abdominales** (también conocidas como la **maniobra de Heimlich)**. **PRECAUCIÓN:** Si no se hacen correctamente, esta maniobra puede lastimar al niño.
 
 
-![](img/M1_23.jpg)
+![Fig.1.23. Maniobra de Heimlich. Rama. Wikimedia Commons. CC BY-NC-SA](img/M1_23.jpg)
 
 
- Fig.1.23. Maniobra de Heimlich. Rama. Wikimedia Commons. CC BY-NC-SA
+ 
 
 **¿Cómo se hace esta maniobra?**
 
@@ -65,6 +63,8 @@ Aplica inmediatamente las **compresiones abdominales** (también conocidas como 
 2.  Coloca tus manos sobre su abdomen: una de tus manos cogiendo tu muñeca opuesta
 3.  Efectúa 5 compresiones hacia arriba y atrás
 4.  Repítela hasta que pueda expulsarse el objeto
+
+{% youtube %}https://youtu.be/V0D66dqDBqE{% endyoutube %}
 
 ## Importante
 

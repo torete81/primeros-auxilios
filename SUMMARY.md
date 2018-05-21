@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
 ### 1. Accidentes y Primeros Auxilios. 
 * [Módulo 1. Accidentes y Primeros Auxilios](index0.md)
@@ -25,9 +26,9 @@ ____
 		* [Asfixia. Atragantamiento](asfixia_atragantamiento.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
-<!--
+
 ### 2. Posición lateral de seguridad y Reanimación cardiopulmonar 
-* [Módulo 2. Posición Lateral de Seguridad y Reanimación Cardiopulmonar](index1.md)
+* [Posición Lateral de Seguridad y Reanimación Cardiopulmonar](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Posición Lateral de Seguridad (PLS)](u1_posicin_lateral_de_seguridad_pls.md)
 	* [U2. Reanimación Cardiopulmonar (RCP)](u2_reanimacin_cardiopulmonar_rcp.md)
@@ -35,7 +36,7 @@ ____
 		* [Desfibrilador](desfibrilador.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
 * [Autoevaluación](autoevaluacin.md)
-
+-->
 
 ### 3. Atención al alumnado con enfermedades crónicas 
 * [Módulo 3. Atención al alumnado con enfermedades crónicas](index2.md)
@@ -67,7 +68,7 @@ ____
 		* [Qué son las cardiopatías congénitas](qu_son_las_cardiopatas_congnitas.md)
 		* [El tratamiento](el_tratamiento.md)
 		* [Autoevaluación](autoevaluacin5.md)
-		* [Para saber más](para_saber_ms3.md)
+		* [Para saber más](para_saber_ms31.md)
 		* [En la escuela](en_la_escuela2.md)
 		* [Autoevaluación](autoevaluacin6.md)
 		* [La actividad física](la_actividad_fsica.md)
@@ -105,7 +106,7 @@ ____
 		* [Recursos](recursos.md)
 		* [Para saber más](para_saber_ms9.md)
 
-
+<!--
 ### 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones 
 * [Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones](index3.md)
 * [Contenidos](contenidos3.md)

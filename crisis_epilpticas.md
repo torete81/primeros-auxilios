@@ -1,10 +1,10 @@
 # Crisis epilépticas
 
 
-![](img/M3_35.png)
+![Fig.3.35. Tumbarse boca arriba. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_35.png)
 
 
- Fig.3.35. Tumbarse boca arriba. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
+ 
 
 Una vez que conoces qué son, queremos que comprendas los siguientes detalles importantes.
 
@@ -29,6 +29,8 @@ En otras ocasiones, no se conoce el desencadenante, aparece de forma espontánea
 Hay dos tipos fundamentales
 
 **1 Crisis parciales o focales:** se implica sólo una parte del cerebro, es decir, la descarga eléctrica comienza en una parte de la superficie cerebral.
+
+{% youtube %}https://youtu.be/RxoshLNnZ60{% endyoutube %}
 
 **Síntomas más comunes de una crisis parcial:**
 

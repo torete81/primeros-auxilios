@@ -1,7 +1,5 @@
 # Para saber más
 
-## ParaSaberMas
-
 **Qué es la diabetes. Hipoglucemia**
 
 Disponible en: [http://bit.ly/2A5jfiD](http://bit.ly/2A5jfiD)

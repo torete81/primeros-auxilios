@@ -1,10 +1,6 @@
 # U1. Alergias e intolerancias
 
-
-![](img/M3_3.png)
-
-
- Fig.3.3. Alergia. Sergio Palao. ARASAAC. CC BY-NC-SA
+![Fig.3.3. Alergia. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M3_3.png)
 
 La **alergia** es una enfermedad muy frecuente, por lo que es altamente probable que en la escuela puedas encontrar a varios niños que la tengan, en alguno de sus **tipos:** al epitelio animal, a los alimentos y látex...
 

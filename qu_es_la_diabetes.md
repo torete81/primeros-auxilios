@@ -1,10 +1,10 @@
 # ¿Qué es la diabetes?
 
 
-![Campaña Día Mundial de la diabetes 2007: diabetes en niños y adolescentes. Fuente: federación Internacional de la diabetes](img/Modulo2_U5_2_diabetes.jpg)
+![Fig.3.25. Cartel día mundial diabetes. IDF. Licencia CC BY-NC-SA](img/Modulo2_U5_2_diabetes.jpg)
 
 
- Fig.3.25. Cartel día mundial diabetes. IDF. Licencia CC BY-NC-SA
+ 
 
  La diabetes es una **enfermedad crónica** que en la actualidad no tiene curación, y se caracteriza por un **aumento de las cifras de glucosa en sangre. **Es una de las enfermedades más frecuentes en la edad escolar.
 
@@ -18,7 +18,7 @@ La **insulina** disminuye el nivel de la glucosa en sangre. Debe inyectarse vari
 
 El **logo** del día mundial de la diabetes es el **aro azul,** al igual que el lazo rosa sirve para concienciar sobre el cáncer de mama.
 
-## Importante1
+## Importante
 
 *   El niño con diabetes debe tratarse de igual modo que el resto del alumnado, integrándose en todas las actividades escolares.
 *   La característica fundamental de una diabetes no tratada es la elevación de la glucosa en sangre (hiperglucemia), que si no se controla de forma adecuada puede tener graves consecuencias.

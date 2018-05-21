@@ -1,10 +1,10 @@
 # Alergias
 
 
-![](img/picar.png)![](img/vomitar.png)![](img/diarrea.png)![](img/toser.png)
+![](img/picar.png)![](img/vomitar.png)![](img/diarrea.png)
 
-
- Fig.3.4. Picor, vomitar, diarrea y toser. Sergio Palao. ARASAAC. CC BY-NC-SA
+![Fig.3.4. Picor, vomitar, diarrea y toser. Sergio Palao. ARASAAC. CC BY-NC-SA](img/toser.png)
+ 
 
 ### **Qué es la alergia**
 
@@ -14,11 +14,10 @@
 
 Los **síntomas** en la mayoría de las ocasiones tardan muy poco tiempo en aparecer y suelen afectar a distintas partes del cuerpo, tal y como puedes ver en el esquema.
 
+![Fig.3.5. Esquema interacción proceso alérgico](img/M3_U1_2.png)
 
- ![M3_U3 Reacción alérgica](img/M3_U1_2.png)
 
-
- Fig.3.5. Esquema interacción proceso alérgico
+ 
 
 Así, se puede desencadenar:
 

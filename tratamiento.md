@@ -1,10 +1,10 @@
 # Tratamiento
 
 
-![](img/M3_12.jpg)
+![Fig.3.12. Asma. Documento de Asma en Pediatría. DG Salud Pública](img/M3_12.jpg)
 
 
- Fig.3.12. Asma. Documento de Asma en Pediatría. DG Salud Pública
+ 
 
 **1\. Medidas higiénicas**
 
@@ -18,10 +18,10 @@ Siempre es “a medida”, es decir, dependiendo de la gravedad. **Hay 2 tipos f
 *   **Los que controlan la enfermedad** disminuyendo la inflamación de los bronquios: son los antiinflamatorios o preventivos. Se utilizan según la gravedad del asma y el grado de control conseguido. Cuando están indicados, hay que seguir tomándolos aunque ya no se tengan los síntomas.
 
 
-![](img/M3_13.jpg)
+![Fig.3.13. Tratamiento de asma. Documento de Asma en Pediatría. DG Salud Pública](img/M3_13.jpg)
 
 
- Fig.3.13. Tratamiento de asma. Documento de Asma en Pediatría. DG Salud Pública  
+   
 
 Para llevar a cabo el tratamiento por vía respiratoria se utilizan unos **dispositivos o inhaladores** que que permiten que pequeñas dosis de fármaco actúen de forma directa en los bronquios, y produzcan menos efectos secundarios. Es importante aprender a realizar una correcta **técnica de inhalación del medicamento**, porque si no el tratamiento es ineficaz.
 

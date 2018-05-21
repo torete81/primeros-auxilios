@@ -1,10 +1,10 @@
 # Crisis de asma: ¡actúa!
 
 
-![M3_U2_asma_cruisis_dmodificado de Documento de salud en asma_Edita: dirección general de salud pública. Dibujos: Rafa Marrón](img/M3_U2_asma_cruisis_modificado.jpg)
+![Fig.3.14. Esquema crisis de asma. Montaje. Documento de salud del asma en pediatría. DG Salud Pública](img/M3_U2_asma_cruisis_modificado.jpg)
 
 
- Fig.3.14. Esquema crisis de asma. Montaje. Documento de salud del asma en pediatría. DG Salud Pública
+ 
 
 La crisis supone un **empeoramiento** progresivo o repentino de los síntomas, y **se puede producir por 3 causas** fundamentalmente:
 

@@ -1,10 +1,10 @@
 # Rinoconjuntivitis
 
 
-![](img/M3_7.png)
+![Fig.3.7. Resfriado. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA](img/M3_7.png)
 
 
- Fig.3.7. Resfriado. Sergio Palao. ARASAAC. Licencia CC BY-NC-SA
+ 
 
 No te asustes con este nombre tan complicado: se llama así al conjunto de procesos que afectan a la nariz y a la conjuntiva de los ojos por un alérgeno.
 

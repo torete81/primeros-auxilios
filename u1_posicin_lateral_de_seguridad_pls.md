@@ -15,17 +15,19 @@ Como has comprobado a lo largo de los textos anteriores la PSL es la posición e
 
 aspirados a las vías respiratorias y que la lengua las obstruya.
 
-## Importante1
-
-Indicación de la PLS:
-
-*   Inconsciente
-    
-*   Sin traumatismos en columna o cráneo
-    
-*   Con respiración estable
-    
-*   Con pulso estable
+>**danger**
+>
+>## Importante
+>
+>Indicación de la PLS:
+>
+>*   Inconsciente
+>    
+>*   Sin traumatismos en columna o cráneo
+>    
+>*   Con respiración estable
+>    
+>*   Con pulso estable
     
 
 **Lo que tienes que hacer es:**

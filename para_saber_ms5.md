@@ -4,15 +4,11 @@
 
 **Ficha del escolar con diabetes**
 
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
-
 Disponible:  [http://bit.ly/2gp33PK](http://bit.ly/2gp33PK)
 
 Esta ficha ha sido editada por la Dirección General de Salud Pública y cuenta con 6 apartados de fácil comprensión, que sirve para ayudarte en el caso de que tengas un alumno con diabetes en tu aula. Estará rellenada por el pediatra y los padres para facilitar la integración del escolar. Además del formato electrónico también hay fichas disponibles en formato papel por si precisas alguna.
 
 **Carol tiene diabetes**
-
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
 
 Disponible:  [http://bit.ly/2gPjY1k](http://bit.ly/2gPjY1k)
 

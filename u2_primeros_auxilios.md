@@ -1,10 +1,7 @@
 # U2. Primeros auxilios
 
 
-![](img/M1_16.jpg)
-
-
- Fig.1.17. ABC Primeros Auxilios.
+![Fig.1.17. ABC Primeros Auxilios.](img/M1_16.jpg)
 
 Los primeros auxilios **consisten** en prestar asistencia necesaria a una persona que lo precisa por estar afectada su salud de forma repentina, o que sufre un episodio de urgencia.
 

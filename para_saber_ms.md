@@ -1,18 +1,14 @@
 # Para saber más
 
-## ParaSaberMas
+## Para saber más
 
-## **Protocolo de actuación ante una crisis alérgica en la escuela**
+## Protocolo de actuación ante una crisis alérgica en la escuela
 
 Disponible:
-
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
 
 [http://bit.ly/2fJc6fW](http://bit.ly/2fJc6fW)
 
 En este enlace se puede descargar el protocolo de actuación, muy bien organizado y con una información sencilla y totalmente actualizada, en formato de ficha del alumno, para rellenar y entender.
-
-<!\-\- @page { margin: 2cm } p { margin-bottom: 0.21cm; direction: ltr; color: #000000; orphans: 0; widows: 0 } p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx } p.cjk { font-family: "Andale Sans UI", "Arial Unicode MS"; font-size: 12pt } p.ctl { font-family: "Times New Roman", serif; font-size: 12pt; so-language: ar-SA } a.western:link { so-language: zxx } a.ctl:link { so-language: zxx } -->
 
 ## **Documento de consenso sobre recomendaciones para una escolarización segura del alumnado alérgico a alimentos y/o látex.**
 

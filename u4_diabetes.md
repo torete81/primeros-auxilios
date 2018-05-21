@@ -1,10 +1,7 @@
 # U4. Diabetes
 
 
-![Juanas Fernández, FE (1998) El niño con diabetes en el colegio e instituto. Departamento de Cultura de la diputación de Cuenca. Portada](img/Modulo2_U5_1.jpg)
-
-
- Fig.3.23. Niños unidos contra la diabetes. 
+![Fig.3.23. Niños unidos contra la diabetes.](img/Modulo2_U5_1.jpg)
 
 Como docente, y si llevas algún tiempo dedicándote a trabajar entre niños o adolescentes habrás descubierto, a menos que durante tu formación hayas tenido excelentes maestros, el elevado número de veces que el desarrollo "normal" de la clase se ve interrumpido por toses, estornudos, vómitos e incluso desvanecimientos de los alumnos, amén de los accidentes que pueden darse por ingerir lo que no se debe, tocar donde no hay que tocar, etc.
 
@@ -33,12 +30,10 @@ Si en algún momento has pensado que nunca ha tenido diabéticos en clase ve ret
 Como puedes observar el joven diabético va a vivir muchas situaciones que le pueden hacer sentir ser un joven rechazado y marginal.
 
 
-![Campamento educativo para niños con diabetes. ](img/autoinyeccion.jpg "Autoinyección de insulina")
+![Fig.3.24. Niño autoinyectándose insulina. Campamento educativo](img/autoinyeccion.jpg)
 
 
- Fig.3.24. Niño autoinyectándose insulina. Campamento educativo
-
- **En esta unidad desarrollarás** conocimientos y habilidades con el fin de mejorar la calidad de vida de nuestros alumnos, además de saber qué hacer y cómo actuar 
+**En esta unidad desarrollarás** conocimientos y habilidades con el fin de mejorar la calidad de vida de nuestros alumnos, además de saber qué hacer y cómo actuar 
 
 ante las diferentes situaciones que pueden surgir relacionadas con la diabetes.
 

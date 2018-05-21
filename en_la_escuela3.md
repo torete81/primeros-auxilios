@@ -1,10 +1,10 @@
 # En la escuela
 
 
-![Día Paz. Parque de juegos. Colegio Pedro I de Barbastro. RAEPS](img/M3_U6_epilepsia_DiaPaz_Parque_Juegos_PedroI_Barbastro.JPG)
+![Fig.3.38. Niños jugando en patio. Colegio Pedro I (Barbastro). RAEPS](img/M3_U6_epilepsia_DiaPaz_Parque_Juegos_PedroI_Barbastro.JPG)
 
 
- Fig.3.38. Niños jugando en patio. Colegio Pedro I (Barbastro). RAEPS
+ 
 
 Sólo un pequeño porcentaje de niños con epilepsía tiene dificultades en el rendimiento escolar y precisan de modelos pedagógicos específicos; el resto de niños epilépticos tiene un **nivel intelectual normal**, y su rendimiento depende de la propia capacidad intelectual del joven.
 
@@ -30,7 +30,7 @@ Como norma del sentido común, **hay deportes menos recomendados** como el buceo
 
 Por eso es fundamental la relación con los padres y el sistema sanitario para conocer todas las recomendaciones que, de forma fluida, pueden ayudarte.
 
-## Importante1
+## Importante
 
 El niño que tiene epilepsia tiene un nivel intelectual normal en la mayoría de los casos
 

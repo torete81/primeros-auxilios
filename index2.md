@@ -1,12 +1,7 @@
 # Módulo 3. Atención al alumnado con enfermedades crónicas
 
-  
+  ![Fig.3.1. Alumna realizando un autoanálisis de glucemia](img/Modulo2_U5_6.jpg "Niña con diabetes haciéndose un autoanálisis en clase")
 
-
- ![M3_1](img/Modulo2_U5_6.jpg "Niña con diabetes haciéndose un autoanálisis en clase")
-
-
- Fig.3.1. Alumna realizando un autoanálisis de glucemia
 
 ### **Introdución**
 
@@ -22,6 +17,8 @@ No es raro que tengas un alumno con asma, alergias, diabetes o algún tipo de c�
 **Este módulo te será muy útil** porque te sentirás capaz a hacer lo que hasta estos momentos tenías más temor, debido a la poca información que tenías.
 
 Te aconsejamos el **visionado del numeroso material multimedia,** que te ayudará a comprender la mayor parte de los contenidos.
+
+{% youtube %}https://youtu.be/UZVLFpWDhoM{% endyoutube %}
 
 ## Objetivos
 
