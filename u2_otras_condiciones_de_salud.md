@@ -1,10 +1,10 @@
 # U2. Otras condiciones de salud
 
 
-![](img/M4_4.png)
+![Fig.4.4. Engordar. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_4.png)
 
 
-Fig.4.4. Engordar. Sergio Palao. ARASAAC. CC BY-NC-SA
+
 
 **ANOREXIA Y BULIMIA NERVIOSA**
 
@@ -32,10 +32,10 @@ La causa de los TCA es biopsicosocial, porque intervienen factores biológicos, 
 *   En la **Anorexia purgativa** busca un baño para vomitar, o intenta hacer ejercicio nada más comer, y al final aparecen los trastornos sociales y psicológicos de aislamiento social, problemas con la familia, etc
 
 
-![](img/M4_5.1.jpg)
+![Fig.4.5. Manifestaciones orales de la Bulimia. DentalSchoolProf. Wikimedia Commons. CC BY-NC-SA](img/M4_5.1.jpg)
 
 
-Fig.4.5. Manifestaciones orales de la Bulimia. DentalSchoolProf. Wikimedia Commons. CC BY-NC-SA
+
 
 **Si tienes intuición de que alguna per****sona de tu centro puede tener un TCA, puedes...**
 
@@ -47,13 +47,4 @@ Fig.4.5. Manifestaciones orales de la Bulimia. DentalSchoolProf. Wikimedia Commo
 
 ## Pregunta Verdadero-Falso
 
-### Pregunta 1
-
-A las personas anoréxicas no les gusta la comida por un gen ligado al cromosoma X. esta predisposición genética hace que cada ciertas generaciones en una familia haya al menos una persona con anorexia nerviosa. Al ser ligada al sexo, suelen ser mujeres. De ahí que la anorexia no tenga actualmente curación, al contrario que la bulimia
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Falso**
-
+<quiz name=""><question><p>A las personas anoréxicas no les gusta la comida por un gen ligado al cromosoma X. esta predisposición genética hace que cada ciertas generaciones en una familia haya al menos una persona con anorexia nerviosa. Al ser ligada al sexo, suelen ser mujeres. De ahí que la anorexia no tenga actualmente curación, al contrario que la bulimia</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>

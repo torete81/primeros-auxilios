@@ -3,10 +3,10 @@
 Actualmente la obesidad es uno de los principales problemas de salud en los países desarrollados, por lo que respondiendo a esta necesidad se ha presentado en nuestra CCAA la **Estrategia para la promoción de la alimentación y actividad física saludales en Aragón,** que pretende que los ciudadanos logren una ganancia de salud a través de sus recomendaciones.
 
 
- ![](img/M4_7.jpg)
+![Fig.4.8. Estrategia de Aragón](img/M4_7.jpg)
 
 
-Fig.4.8. Estrategia de Aragón
+
 
 Sin duda, uno de sus logras es el poder tener un campo de acción en **5 ámbitos,** como son:
 

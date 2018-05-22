@@ -1,10 +1,10 @@
 # Módulo 4. Botiquín escolar. Otras situaciones: Trastornos de Conducta Alimentaria. Obesidad. Documentos e instrucciones
 
 
- ![](img/M4_1.png)
+![Fig.4.1 Curas. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_1.png)
 
 
-Fig.4.1 Curas. Sergio Palao. ARASAAC. CC BY-NC-SA
+
 
 ### INTRODUCCIÓN
 

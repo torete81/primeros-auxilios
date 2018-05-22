@@ -1,10 +1,10 @@
 # U1. Botiquín escolar
 
 
- ![](img/M4_2.png)
+![Fig.4.2. Botiquín. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_2.png)
 
 
-Fig.4.2. Botiquín. Sergio Palao. ARASAAC. CC BY-NC-SA
+
 
 El centro docente ha de tener un **botiquín de contenidos básicos****,** para **poder atender** a las necesidades de sus alumnos en temas relacionados con la salud (**primeros auxilios**).
 
@@ -53,29 +53,12 @@ También es importante destacar la conveniencia de que exista una **guía de act
 
 ## Importante
 
--El botiquín escolar debe estar situado en un lugar conocido por todos, con una persona del Equipo Directivo que tenga entre sus funciones el mantenimiento interno y externo del mismo
+- El botiquín escolar debe estar situado en un lugar conocido por todos, con una persona del Equipo Directivo que tenga entre sus funciones el mantenimiento interno y externo del mismo
 
--Los teléfonos de urgencia necesarios estarán junto al botiquín, y en los lugares que se estime oportuno
+- Los teléfonos de urgencia necesarios estarán junto al botiquín, y en los lugares que se estime oportuno
 
 ## Pregunta Verdadero-Falso
 
-### Pregunta 1
+<quiz name=""><question><p>Respecto al botiquín médico debe tener, entre otras, la medicación de urgencia necesaria para atender al alumno con enfermedades crónicas, como, por ejemplo, el glucagón para una hipoglucemia grave</p><answer>Verdadero</answer><answer correct>Falso</answer></question><question><p>El desinfectante ideal para su utilización por su comodidad es el Betadine® ya que es ampliamente conocido por todas las personas.</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>
 
-Respecto al botiquín médico debe tener, entre otras, la medicación de urgencia necesaria para atender al alumno con enfermedades crónicas, como, por ejemplo, el glucagón para una hipoglucemia grave
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Falso**
-
-### Pregunta 2
-
-El desinfectante ideal para su utilización por su comodidad es el Betadine® ya que es ampliamente conocido por todas las personas.
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Falso**
 

@@ -1,16 +1,16 @@
 # Otros Trastornos
 
 
-![](img/M4_6.png)
+![Fig.4.6. Gimnasia. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_6.png)
 
 
-Fig.4.6. Gimnasia. Sergio Palao. ARASAAC. CC BY-NC-SA
 
- **Trastornos aliment****arios no especificados (“vigorexia”, “ortorexia”, etc.)**
+
+**Trastornos aliment arios no especificados (“vigorexia”, “ortorexia”, etc.)**
 
  Los llamados Trastornos de la Conducta Alimentaria No Especificados (TCANE) son cuadros incompletos de AN o de BN, es decir, tienen unos signos y síntomas similares a las enfermedades antes descritas, pero sin llegar a definir claramente unos criterios que los diagnostiquen como tales.
 
- **¿Qué es la Vigorexia?**
+**¿Qué es la Vigorexia?**
 
 **Se define** como una obsesión por un cuerpo musculoso, término que se definió en el año 1993: sin duda, vemos que este** trastorno mental novedoso** que cada vez va en mayor aumento, vinculado a una tendencia excesiva por tener un cuerpo musculoso. Además hacen limitaciones importantes en las comidas, rechazando alimentos grasos y aumentando la cantidad de ingesta proteica para alcanzar objetivos. El vigoréxico tiene una alteración en la percepción de su imagen corporal, viéndose excesivamente delgado, lo que le lleva a hacer unas dietas desequilibradas.
 
@@ -21,10 +21,10 @@ Elimina grasa mediante una alimentación inapropiada, duros entrenamientos, mira
 Las **complicaciones** a largo plazo son las enfermedades por daño a músculos, articulaciones, tendones..., así como alteración en la conducta social, interferencias entre la casa, la escuela, el trabajo..., imposibilidad de mantenerse relajado, así como efectos adversos de las drogas utilizadas para lograr sus objetivos.
 
 
-![](img/M4_7.png)
+![Fig.4.7. Comida. Sergio Palao. ARASAAC. CC BY-NC-SA](img/M4_7.png)
 
 
-Fig.4.7. Comida. Sergio Palao. ARASAAC. CC BY-NC-SA
+
 
  **¿Qué es la Ortorexia?**
 
@@ -49,13 +49,5 @@ Lógicamente, las **complicacione**s se relacionan con alteraciones en el metab
 
 ## Pregunta Verdadero-Falso
 
-### Pregunta 1
-
-Respecto a la ortorexia:un docente no se puede dar cuenta de que uno de sus alumnos adolescentes tiene este trastorno mental, ya qu es típico que la mayor parte de nuestros jóvenes hagan una vida sana, con ejercicio y buena comida. Todas las personas que son modelos serían ortoréxicas
-
- Verdadero  Falso
-
-#### Retroalimentación
-
-**Falso**
+<quiz name=""><question><p>Respecto a la ortorexia:un docente no se puede dar cuenta de que uno de sus alumnos adolescentes tiene este trastorno mental, ya qu es típico que la mayor parte de nuestros jóvenes hagan una vida sana, con ejercicio y buena comida. Todas las personas que son modelos serían ortoréxicas</p><answer>Verdadero</answer><answer correct>Falso</answer></question></quiz>
 
